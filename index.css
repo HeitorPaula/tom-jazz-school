@@ -38,6 +38,10 @@ header nav {
     margin: 1rem auto 0;
 }
 
+.ativo {
+    color: var(--color-primary);
+}
+
 nav a {
     color: var(--color-black);
     font-size: 1.25rem;
